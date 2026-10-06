@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Muhammad Abbas Khan 👋
 
-<!--
-**abbasmomand98-jpg/abbasmomand98-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UI/UX Designer & Web Developer** based in Peshawar, Pakistan — currently studying Computer Science at UET Peshawar.
 
-Here are some ideas to get you started:
+I believe good design is invisible: it removes friction and just works. I focus on real-life problems — confusing flows, cluttered apps, everyday digital frustrations — and turn them into clean, intuitive experiences, then build them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- **Design:** Figma, UI/UX, Wireframing, Prototyping
+- **Development:** HTML, CSS, JavaScript
+- **Currently learning:** Advanced UI/UX patterns & modern web development
+
+## 🎨 Find my design work
+- **Figma:** https://www.figma.com/@abbasmomand
+- **Dribbble & Behance:** profiles being set up — links coming soon
+
+## 📊 GitHub Stats
+
+![Muhammad Abbas Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbasmomand98-jpg&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmomand98-jpg&layout=compact&theme=tokyonight)](https://github.com/abbasmomand98-jpg)
