@@ -14,6 +14,7 @@ I believe good design is invisible — it removes friction and just works. I tak
 
 - **Safar — Bus Ticket Booking App (UX Concept):** search → compare → visual seat selection → e-ticket. [Live demo](https://github.com/abbasmomand98-jpg/safar-booking-ui) · [Design](https://dribbble.com/shots/27789307-Safar-Bus-Ticket-Booking-App-UX-Concept)
 - **BillBox — Utility Bill Tracker (UX Concept):** bill tracking for Pakistani households — slab breakdowns, due-date reminders, meter checks. [Live demo](https://github.com/abbasmomand98-jpg/billbox-utility-tracker) · [Design](https://www.behance.net/gallery/256758071/BillBox-Utility-Bill-Tracker-%28UX-Concept%29)
+- **LifeLine — Blood Donor Finder (UX Concept):** emergency blood donor search for Pakistan — by blood group and city, tap-to-reveal contacts, donor registration. [Live demo](https://github.com/abbasmomand98-jpg/lifeline-blood-donor-finder)
 
 ## 🎨 Design Profiles
 
