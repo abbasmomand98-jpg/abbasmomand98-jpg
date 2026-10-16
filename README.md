@@ -23,7 +23,10 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
+
+| 🎓 **Dakhla** | University admission tracker — deadlines, merit lists, documents | [Open demo](https://abbasmomand98-jpg.github.io/dakhla-admission-tracker/) | [Behance](https://www.behance.net/gallery/257178721/Dakhla-University-Admission-Tracker-%28UX-Concept%29) |
 | 🦟 **Dengue Shield** | Dengue outbreak tracker: risk dashboard, symptom triage, prevention planner | [Open demo](https://abbasmomand98-jpg.github.io/dengue-shield-tracker/) | [Behance](https://www.behance.net/gallery/257129781/Dengue-Shield-Outbreak-Tracker-%28UX-Concept%29) |
+
 | 🌫️ **Saaf** | Smog alerts & clean-air planner for kids, elderly and asthma patients | [Open demo](https://abbasmomand98-jpg.github.io/saaf-smog-alerts/) | [Behance](https://www.behance.net/gallery/257077207/Saaf-Smog-Alerts-Clean-Air-Planner-%28UX-Concept%29) |
 | 🏠 **Raahish** | Verified rental finder with fair-rent benchmarks and scam-spotter | [Open demo](https://abbasmomand98-jpg.github.io/raahish-verified-rentals/) | [Behance](https://www.behance.net/gallery/257022777/Raahish-Verified-Rental-Finder-%28UX-Concept%29) |
 | 🛒 **Bachat** | Grocery price tracker — never overpay again | [Open demo](https://abbasmomand98-jpg.github.io/bachat-grocery-price-tracker/) | [Behance](https://www.behance.net/gallery/256972813/Bachat-Never-Overpay-for-Groceries-%28UX-Concept%29) |
