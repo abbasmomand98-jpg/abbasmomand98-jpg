@@ -23,7 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
-| 🔧 **Khidmat** | Verified home services finder — ID-badged pros, fixed PKR rates, digital receipts | [Open demo](https://abbasmomand98-jpg.github.io/khidmat-home-services/) | [Behance]({BEHANCE_URL}) |
+| 🔧 **Khidmat** | Verified home services finder — ID-badged pros, fixed PKR rates, digital receipts | [Open demo](https://abbasmomand98-jpg.github.io/khidmat-home-services/) | [Behance](https://www.behance.net/gallery/257221589/Khidmat-Verified-Home-Services-Finder-(UX-Concept)) |
 | 🎓 Dakhla | University admission tracker — deadlines, merit lists, documents | [Open demo](https://abbasmomand98-jpg.github.io/dakhla-admission-tracker/) | [Behance](https://www.behance.net/gallery/257178721/Dakhla-University-Admission-Tracker-%28UX-Concept%29) |
 | 🦟 **Dengue Shield** | Dengue outbreak tracker: risk dashboard, symptom triage, prevention planner | [Open demo](https://abbasmomand98-jpg.github.io/dengue-shield-tracker/) | [Behance](https://www.behance.net/gallery/257129781/Dengue-Shield-Outbreak-Tracker-%28UX-Concept%29) |
 | 🌫️ **Saaf** | Smog alerts & clean-air planner for kids, elderly and asthma patients | [Open demo](https://abbasmomand98-jpg.github.io/saaf-smog-alerts/) | [Behance](https://www.behance.net/gallery/257077207/Saaf-Smog-Alerts-Clean-Air-Planner-%28UX-Concept%29) |
