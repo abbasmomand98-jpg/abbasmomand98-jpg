@@ -23,7 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
-| 🌾 **Kisaan** | Fair crop prices & sowing advisor — mandi rates, Munsif Meter, rabi planner | [Open demo](https://abbasmomand98-jpg.github.io/kisaan-fair-mandi-prices/) | Case study publishing today |
+| 🌾 **Kisaan** | Fair crop prices & sowing advisor — mandi rates, Munsif Meter, rabi planner | [Open demo](https://abbasmomand98-jpg.github.io/kisaan-fair-mandi-prices/) | [Behance](https://www.behance.net/gallery/257257217/Kisaan-Fair-Crop-Prices-Sowing-Advisor-(UX-Concept)) |
 | 🔧 **Khidmat** | Verified home services finder — ID-badged pros, fixed PKR rates, digital receipts | [Open demo](https://abbasmomand98-jpg.github.io/khidmat-home-services/) | [Behance](https://www.behance.net/gallery/257221589/Khidmat-Verified-Home-Services-Finder-(UX-Concept)) |
 | 🎓 Dakhla | University admission tracker — deadlines, merit lists, documents | [Open demo](https://abbasmomand98-jpg.github.io/dakhla-admission-tracker/) | [Behance](https://www.behance.net/gallery/257178721/Dakhla-University-Admission-Tracker-%28UX-Concept%29) |
 | 🦟 **Dengue Shield** | Dengue outbreak tracker: risk dashboard, symptom triage, prevention planner | [Open demo](https://abbasmomand98-jpg.github.io/dengue-shield-tracker/) | [Behance](https://www.behance.net/gallery/257129781/Dengue-Shield-Outbreak-Tracker-%28UX-Concept%29) |
@@ -40,21 +40,21 @@ Every repo is written to be **learned from, not just looked at** — clean reada
 ### 🛠️ Skills & tools
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-FF61F6?style=flat-square" alt="UI/UX">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Video%20Editing-9999FF?style=flat-square" alt="Video Editing">
-  <img src="https://img.shields.io/badge/Content%20Creation-FF6B6B?style=flat-square" alt="Content Creation">
+<img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/UI%2FUX-Design-FF61F6?style=flat-square" alt="UI/UX">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Video%20Editing-9999FF?style=flat-square" alt="Video Editing">
+<img src="https://img.shields.io/badge/Content%20Creation-FF6B6B?style=flat-square" alt="Content Creation">
 </p>
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbasmomand98-jpg&show_icons=true&theme=radical" alt="Abbas's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasmomand98-jpg&theme=radical" alt="GitHub streak" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=abbasmomand98-jpg&show_icons=true&theme=radical" alt="Abbas's GitHub stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasmomand98-jpg&theme=radical" alt="GitHub streak" height="165">
 </p>
 
 ### 📫 Let's work together
