@@ -23,7 +23,8 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
-| 🏥 **Ilaaj** | Sehat Card hospital finder — Rs 10 lakh free treatment, coverage checker, tout reports | [Open demo](https://abbasmomand98-jpg.github.io/ilaaj-sehat-card-finder/) | Case study publishing today |
+| 🏥 **Ilaaj** | Sehat Card hospital finder — Rs 10 lakh free treatment, coverage checker, tout reports | [Open demo](https://abbasmomand98-jpg.github.io/ilaaj-sehat-card-finder/) | [Behance](https://www.behance.net/gallery/257289779/Ilaaj-Sehat-Card-Hospital-Finder-(UX-Concept)) |
+| 🔥 **Garam** | Winter gas & heating planner — street-level pressure, Bachat Meter backup costs, leak safety | [Open demo](https://abbasmomand98-jpg.github.io/garam-winter-gas-planner/) | Case study publishing today |
 | 🌾 **Kisaan** | Fair crop prices & sowing advisor — mandi rates, Munsif Meter, rabi planner | [Open demo](https://abbasmomand98-jpg.github.io/kisaan-fair-mandi-prices/) | [Behance](https://www.behance.net/gallery/257257217/Kisaan-Fair-Crop-Prices-Sowing-Advisor-(UX-Concept)) |
 | 🔧 **Khidmat** | Verified home services finder — ID-badged pros, fixed PKR rates, digital receipts | [Open demo](https://abbasmomand98-jpg.github.io/khidmat-home-services/) | [Behance](https://www.behance.net/gallery/257221589/Khidmat-Verified-Home-Services-Finder-(UX-Concept)) |
 | 🎓 Dakhla | University admission tracker — deadlines, merit lists, documents | [Open demo](https://abbasmomand98-jpg.github.io/dakhla-admission-tracker/) | [Behance](https://www.behance.net/gallery/257178721/Dakhla-University-Admission-Tracker-%28UX-Concept%29) |
@@ -31,7 +32,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 | 🌫️ **Saaf** | Smog alerts & clean-air planner for kids, elderly and asthma patients | [Open demo](https://abbasmomand98-jpg.github.io/saaf-smog-alerts/) | [Behance](https://www.behance.net/gallery/257077207/Saaf-Smog-Alerts-Clean-Air-Planner-%28UX-Concept%29) |
 | 🏠 **Raahish** | Verified rental finder with fair-rent benchmarks and scam-spotter | [Open demo](https://abbasmomand98-jpg.github.io/raahish-verified-rentals/) | [Behance](https://www.behance.net/gallery/257022777/Raahish-Verified-Rental-Finder-%28UX-Concept%29) |
 | 🛒 **Bachat** | Grocery price tracker — never overpay again | [Open demo](https://abbasmomand98-jpg.github.io/bachat-grocery-price-tracker/) | [Behance](https://www.behance.net/gallery/256972813/Bachat-Never-Overpay-for-Groceries-%28UX-Concept%29) |
-| 💼 **Rozgar** | Job finder built for Pakistan's youth | [Open demo](https://abbasmomand98-jpg.github.io/rozgar-job-finder/) | [Behance](https://www.behance.net/gallery/256937351/Rozgar-Job-Finder-for-Pakistan-(UX-Concept)) |
+| 💼 **Rozgar** | Job finder built for Pakistan’s youth | [Open demo](https://abbasmomand98-jpg.github.io/rozgar-job-finder/) | [Behance](https://www.behance.net/gallery/256937351/Rozgar-Job-Finder-for-Pakistan-(UX-Concept)) |
 | 🚑 **Madad** | Emergency SOS & ambulance finder | [Open demo](https://abbasmomand98-jpg.github.io/madad-emergency-sos/) | [Behance](https://www.behance.net/gallery/256904355/Madad-Emergency-SOS-Ambulance-Finder-%28UX-Concept%29) |
 
 ### 📚 Learn from my code
