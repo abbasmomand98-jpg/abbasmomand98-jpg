@@ -23,7 +23,8 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
-| 🔥 **Garam** | Winter gas & heating planner — street-level pressure, Bachat Meter backup costs, leak safety | [Open demo](https://abbasmomand98-jpg.github.io/garam-winter-gas-planner/) | Case study publishing today |
+| 🧠 **Sukoon** | Mental health counselor finder — verified counselors, upfront PKR fees, crisis support | [Open demo](https://abbasmomand98-jpg.github.io/sukoon-mental-health/) | Case study publishing today |
+| 🔥 **Garam** | Winter gas & heating planner — street-level pressure, Bachat Meter backup costs, leak safety | [Open demo](https://abbasmomand98-jpg.github.io/garam-winter-gas-planner/) | [Behance](https://www.behance.net/gallery/257341223/Garam-Winter-Gas-Heating-Planner-(UX-Concept)) |
 | 🏥 **Ilaaj** | Sehat Card hospital finder — Rs 10 lakh free treatment, coverage checker, tout reports | [Open demo](https://abbasmomand98-jpg.github.io/ilaaj-sehat-card-finder/) | [Behance](https://www.behance.net/gallery/257289779/Ilaaj-Sehat-Card-Hospital-Finder-(UX-Concept)) |
 | 🌾 **Kisaan** | Fair crop prices & sowing advisor — mandi rates, Munsif Meter, rabi planner | [Open demo](https://abbasmomand98-jpg.github.io/kisaan-fair-mandi-prices/) | [Behance](https://www.behance.net/gallery/257257217/Kisaan-Fair-Crop-Prices-Sowing-Advisor-(UX-Concept)) |
 | 🔧 **Khidmat** | Verified home services finder — ID-badged pros, fixed PKR rates, digital receipts | [Open demo](https://abbasmomand98-jpg.github.io/khidmat-home-services/) | [Behance](https://www.behance.net/gallery/257221589/Khidmat-Verified-Home-Services-Finder-(UX-Concept)) |
