@@ -23,7 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
-| ⚡ **Bijli** | Load-shedding alert & UPS planner — area outage alerts, right-size UPS calculator, community reports | [Open demo](https://abbasmomand98-jpg.github.io/bijli-load-shedding-alerts/) | publishing today |
+| ⚡ **Bijli** | Load-shedding alert & UPS planner — area outage alerts, right-size UPS calculator, community reports | [Open demo](https://abbasmomand98-jpg.github.io/bijli-load-shedding-alerts/) | [Behance](https://www.behance.net/gallery/257440263/Bijli-Beat-the-Blackouts-(UX-Concept)) |
 | 🧠 **Sukoon** | Mental health counselor finder — verified counselors, upfront PKR fees, crisis support | [Open demo](https://abbasmomand98-jpg.github.io/sukoon-mental-health/) | [Behance](https://www.behance.net/gallery/257387745/Sukoon-Mental-Health-Counselor-Finder-(UX-Concept)) |
 | 🔥 **Garam** | Winter gas & heating planner — street-level pressure, Bachat Meter backup costs, leak safety | [Open demo](https://abbasmomand98-jpg.github.io/garam-winter-gas-planner/) | [Behance](https://www.behance.net/gallery/257341223/Garam-Winter-Gas-Heating-Planner-(UX-Concept)) |
 | 🏥 **Ilaaj** | Sehat Card hospital finder — Rs 10 lakh free treatment, coverage checker, tout reports | [Open demo](https://abbasmomand98-jpg.github.io/ilaaj-sehat-card-finder/) | [Behance](https://www.behance.net/gallery/257289779/Ilaaj-Sehat-Card-Hospital-Finder-(UX-Concept)) |
