@@ -23,6 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
+| 💊 **Dawa** | Medicine price finder & generic saver — pharmacy price compare, cheaper generics, refill planner | [Open demo](https://abbasmomand98-jpg.github.io/dawa-medicine-price-finder/) | Case study publishing today |
 | 💒 **Shaadi — Winter Wedding Planner** | Winter wedding planner & venue finder — venue comparison, 3-event budget planner with debt-risk meter, guest RSVP tracking, escrow-protected vendor booking and scam-spotter | [Open demo](https://abbasmomand98-jpg.github.io/shaadi-wedding-planner/) · [Repo](https://github.com/abbasmomand98-jpg/shaadi-wedding-planner) | [Behance](https://www.behance.net/gallery/257489983/Shaadi-Winter-Wedding-Planner-(UX-Concept)) |
 | ⚡ **Bijli** | Load-shedding alert & UPS planner — area outage alerts, right-size UPS calculator, community reports | [Open demo](https://abbasmomand98-jpg.github.io/bijli-load-shedding-alerts/) | [Behance](https://www.behance.net/gallery/257440263/Bijli-Beat-the-Blackouts-(UX-Concept)) |
 | 🧠 **Sukoon** | Mental health counselor finder — verified counselors, upfront PKR fees, crisis support | [Open demo](https://abbasmomand98-jpg.github.io/sukoon-mental-health/) | [Behance](https://www.behance.net/gallery/257387745/Sukoon-Mental-Health-Counselor-Finder-(UX-Concept)) |
