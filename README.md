@@ -60,7 +60,7 @@ Every repo is written to be **learned from, not just looked at** — clean reada
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abbasmomand98-jpg&show_icons=true&theme=radical" alt="Abbas's GitHub stats" height="165">
-  <img src="https://github-readme-stats.herokuapp.com/?user=abbasmomand98-jpg&theme=radical" alt="GitHub streak" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasmomand98-jpg&theme=radical" alt="GitHub streak" height="165">
 </p>
 
 ### 📫 Let's work together
