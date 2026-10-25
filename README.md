@@ -23,6 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
+| 🎓 **Wazifa** | Scholarship finder & deadline tracker — scattered deadlines, eligibility checker, document checklist, scam-spotter for fee-charging agents | [Open demo](https://abbasmomand98-jpg.github.io/wazifa-scholarship-finder/) | publishing today |
 | 💊 **Dawa** | Medicine price finder & generic saver — pharmacy price compare, cheaper generics, refill planner | [Open demo](https://abbasmomand98-jpg.github.io/dawa-medicine-price-finder/) | [Behance](https://www.behance.net/gallery/257534091/Dawa-Medicine-Price-Finder-Saver-%28UX-Concept%29) |
 | 💒 **Shaadi — Winter Wedding Planner** | Winter wedding planner & venue finder — venue comparison, 3-event budget planner with debt-risk meter, guest RSVP tracking, escrow-protected vendor booking and scam-spotter | [Open demo](https://abbasmomand98-jpg.github.io/shaadi-wedding-planner/) · [Repo](https://github.com/abbasmomand98-jpg/shaadi-wedding-planner) | [Behance](https://www.behance.net/gallery/257489983/Shaadi-Winter-Wedding-Planner-(UX-Concept)) |
 | ⚡ **Bijli** | Load-shedding alert & UPS planner — area outage alerts, right-size UPS calculator, community reports | [Open demo](https://abbasmomand98-jpg.github.io/bijli-load-shedding-alerts/) | [Behance](https://www.behance.net/gallery/257440263/Bijli-Beat-the-Blackouts-(UX-Concept)) |
