@@ -23,6 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
+| 📒 Khata | Digital udhaar ledger for small shops — balances, digital receipts, overdue risk bands, reminder text | [Open demo](https://abbasmomand98-jpg.github.io/khata-shop-udhaar-ledger/) | Case study: publishing today |
 | 💜 **Sahara** | BISP payment tracker — installment status, Cut Guard against agent cuts, centre finder with queue times | [Open demo](https://abbasmomand98-jpg.github.io/sahara-bisp-payment-tracker/) | [Behance](https://www.behance.net/gallery/257622605/Sahara-BISP-Payment-Tracker-%28UX-Concept%29) |
 | 🎓 **Wazifa** | Scholarship finder & deadline tracker — scattered deadlines, eligibility checker, document checklist, scam-spotter for fee-charging agents | [Open demo](https://abbasmomand98-jpg.github.io/wazifa-scholarship-finder/) | [Behance](https://www.behance.net/gallery/257573977/Wazifa-Scholarship-Finder-%28UX-Concept%29) |
 | 💊 **Dawa** | Medicine price finder & generic saver — pharmacy price compare, cheaper generics, refill planner | [Open demo](https://abbasmomand98-jpg.github.io/dawa-medicine-price-finder/) | [Behance](https://www.behance.net/gallery/257534091/Dawa-Medicine-Price-Finder-Saver-%28UX-Concept%29) |
