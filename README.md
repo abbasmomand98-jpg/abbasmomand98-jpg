@@ -23,6 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
+| 🚂 **RailPak** | Train ticket finder & journey planner — route search with on-time rates, four-class fare comparison, exact berth picker, live delay tracker | [Open demo](https://abbasmomand98-jpg.github.io/railpak-train-ticket-finder/) | [Behance](https://www.behance.net/gallery/257880405/RailPak-Train-Ticket-Finder-(UX-Concept)) |
 | ⛽ **FuelPak** | Petrol price & station finder — city price board with fortnight trends, station comparison that never lets a dry pump top the list, trip fuel-cost calculator | [Open demo](https://abbasmomand98-jpg.github.io/fuelpak-petrol-price-finder/) | [Behance](https://www.behance.net/gallery/257849613/FuelPak-Petrol-Price-Finder-%28UX-Concept%29) |
 | 🏠 **Kamra** | Verified student hostel finder — verified-first search by city and budget, first-month cost calculator, scam spotter for hostel listings | [Open demo](https://abbasmomand98-jpg.github.io/kamra-hostel-finder/) | [Behance](https://www.behance.net/gallery/257806279/Kamra-Verified-Student-Hostel-Finder-(UX-Concept)) |
 | 🌫️ **Dhund** | Fog-safe travel planner — section visibility, GO / DELAY verdicts, fog-driving guide for Punjab & KP motorways | [Open demo](https://abbasmomand98-jpg.github.io/dhund-fog-travel-planner/) | [Behance](https://www.behance.net/gallery/257791585/Dhund-Fog-Safe-Travel-Planner-(UX-Concept)) |
