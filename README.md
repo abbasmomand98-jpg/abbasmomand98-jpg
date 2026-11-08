@@ -23,6 +23,7 @@ Every day I pick **one real-world problem** people around me are actually facing
 
 | Project | What it solves | Live demo | Case study |
 |---|---|---|---|
+| [**Roshan**](https://github.com/abbasmomand98-jpg/roshan-solar-planner) | Solar planner & scam checker — quote compare with per-watt prices, payback calculator, panel serial checker, net-metering tracker | [Open demo](https://abbasmomand98-jpg.github.io/roshan-solar-planner/) | publishing today |
 | [**Shanakht**](https://github.com/abbasmomand98-jpg/shanakht-cnic-tracker) | CNIC renewal & NADRA tracker — expiry checker, tracking-ID lookup, fee calculator with agent-overcharge flagger, centre finder | [Open demo](https://abbasmomand98-jpg.github.io/shanakht-cnic-tracker/) | publishing today |
 | [**Zameen**](https://github.com/abbasmomand98-jpg/zameen-land-record-checker) | Land record & plot fraud checker — verify a plot by file number, check society NOCs, and see the true transfer cost | [Open demo](https://abbasmomand98-jpg.github.io/zameen-land-record-checker/) | publishing today |
 | 💉 **Tika** | Child vaccination tracker — EPI timeline from birth date, missed-dose reminders with catch-up plan, digital card, free EPI centre finder vs Rs 2,500 clinics | [Open demo](https://abbasmomand98-jpg.github.io/tika-vaccination-tracker/) | Behance case study publishing today |
